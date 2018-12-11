@@ -1,0 +1,72 @@
+
+2016/12/17 04:52:22 -> Listar Cursos
+2016/12/17 04:52:29 -> Listar Exame
+2016/12/17 04:53:03 -> Listar Notas
+2016/12/17 04:53:45 -> Listar Notas
+2016/12/17 04:55:44 -> Lançar Notas
+2016/12/17 04:55:50 -> Listar Exame
+2016/12/17 04:55:56 -> Lançar Notas
+2016/12/17 04:56:05 -> Cria Exame
+2016/12/17 04:56:31 -> Listar Notas
+2016/12/17 04:56:38 -> Lançar Notas
+2016/12/17 04:58:15 -> Listar Notas
+2016/12/17 04:58:26 -> Lançar Notas
+2016/12/17 04:58:41 -> Lançar Notas
+2016/12/17 04:58:46 -> Listar Notas
+2016/12/17 04:59:18 -> Listar Notas
+2016/12/17 05:17:14 -> Remover Docente de Exame
+2016/12/17 05:17:49 -> Remover Docente de Exame
+2016/12/17 05:21:47 -> Listar Exames Associados a Funcionario
+2016/12/17 05:56:10 -> Cria Exame
+2016/12/17 14:51:47 -> Remover Docente de Exame
+2016/12/17 14:51:55 -> Listar Exame
+2016/12/17 14:52:12 -> Adicionar Disciplina
+2016/12/17 14:52:33 -> Cria Exame
+2016/12/17 14:53:56 -> Cria Exame
+2016/12/17 15:03:25 -> Listar Cursos
+2016/12/17 15:19:10 -> Adicionar Disciplina
+2016/12/17 15:23:42 -> Listar Cursos
+2016/12/17 15:23:49 -> Listar Cursos
+2016/12/17 15:24:39 -> Listar Cursos
+2016/12/17 15:24:59 -> Listar Cursos
+2016/12/17 15:28:15 -> Listar Cursos
+2016/12/17 15:33:53 -> Listar Cursos
+2016/12/17 15:46:56 -> Cria Exame
+2016/12/17 16:10:23 -> Listar Disciplina
+2016/12/17 16:13:50 -> Listar Disciplina
+2016/12/17 16:20:20 -> Listar Disciplina
+2016/12/17 16:28:55 -> Listar Disciplina
+2016/12/17 16:30:35 -> Listar Exame
+2016/12/17 16:33:16 -> Cria Exame
+2016/12/17 16:35:33 -> Listar Exame
+2016/12/17 16:35:39 -> Listar Notas
+2016/12/17 16:35:42 -> Lançar Notas
+2016/12/17 16:36:18 -> Listar Notas
+2016/12/17 16:36:34 -> Listar Alunos Associados
+2016/12/17 16:36:45 -> Adicionar Docente a Exame
+2016/12/17 16:40:48 -> Listar Disciplina
+2016/12/17 16:42:13 -> Listar Disciplina
+2016/12/17 16:42:22 -> Listar Disciplina
+2016/12/17 16:53:40 -> Cria Exame
+2016/12/17 16:55:52 -> Cria Exame
+2016/12/17 20:02:12 -> Cria Exame
+2016/12/17 20:02:56 -> Cria Exame
+2016/12/17 20:07:38 -> Cria Exame
+2016/12/17 20:09:38 -> Cria Exame
+2016/12/17 20:09:49 -> Cria Exame
+2016/12/17 20:09:57 -> Cria Exame
+2016/12/17 20:10:26 -> Cria Exame
+2016/12/17 20:10:53 -> Adicionar Aluno
+2016/12/17 20:13:16 -> Adicionar Aluno
+2016/12/17 20:13:20 -> Adicionar Aluno a Exame
+2016/12/17 20:20:16 -> Cria Exame
+2016/12/17 20:22:09 -> Cria Exame
+2016/12/17 20:22:52 -> Cria Exame
+2016/12/17 20:33:24 -> Adicionar Aluno
+2016/12/17 21:03:18 -> Listar Cursos
+2016/12/17 22:09:05 -> Listar Cursos
+2016/12/17 22:23:58 -> Listar Exame
+2016/12/17 22:24:08 -> Lan�ar Notas
+2016/12/17 22:24:12 -> Listar Notas
+2016/12/17 22:24:21 -> Adicionar Aluno a Exame
+2016/12/17 22:24:31 -> Cria Exame
